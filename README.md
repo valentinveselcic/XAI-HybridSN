@@ -78,8 +78,8 @@ Ensure the following system and hardware requirements are met:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/valentinveselcic/OSIRV-Project.git
-cd OSIRV-Project
+git clone https://github.com/valentinveselcic/XAI-HybridSN.git
+cd XAI-HybridSN
 ```
 
 ### 2. Configure Virtual Environment
